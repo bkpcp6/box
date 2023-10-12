@@ -5,8 +5,10 @@
 "sites": [
 {"key":"csp_WoGG","name":"靠谱哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key": "磁力","name": "靠谱┃磁力","type": 3,"playerType": "1","api": "./JS/lib/drpy1.min.js","ext": "./JS/js/荐片.js"},
-{"key": "Xinsj","name": "视觉┃直连","type": 3, "api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
-{"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://www.cz0101.com/","filterable": 1},
+{"key": "Xinsj","name": "靠谱┃直连","type": 3, "api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.6080yy3.com/"},
+{"key":"荐片","name":"靠谱哥4K","type": 3,"playerType":"1","api":"http://xhww.fun:63/lib/drpy2.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/tang.jar"},
+{"key": "csp_mdd","name": "超清4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.mengdandan.com/xgapp.php/v1/","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/tang.jar"},  
+{"key": "csp_Czsapp", "name": "表哥┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://www.cz0101.com/","filterable": 1},
 {"key":"csp_YiSo","name":"靠谱搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"}
 ],
 //解X设置
