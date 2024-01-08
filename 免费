@@ -24,7 +24,7 @@
         },
         {
 "key": "厂长资源",
-"name": "2KHDR-A",
+"name": "秒播A",
 "type": 3,
 "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
 "searchable": 1,
@@ -33,16 +33,6 @@
 "changeable": 1,
 "ext": "https://drpy.cainisi.cf/js/厂长资源.js"
 },
-        
-       {
-            "key": "csp_Cokemv",
-            "name": "秒播A",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "csp_YQKan",
             "name": "秒播B",
