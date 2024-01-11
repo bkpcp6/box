@@ -23,13 +23,11 @@
             "ext": "https://www.czzy88.com/"
         },
         {
-      "key": "荐片",
+      "key": "drpy_js_荐片",
       "name": "秒播A",
-      "api": "csp_Jianpian",
       "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com",
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
     },
         {
             "key": "csp_YQKan",
