@@ -43,7 +43,7 @@
             "name": "秒播C",
             "type": 3,
             "api": "csp_NanGua",
-            "playerType": 2,
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -245,16 +245,19 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "88js",
-            "name": "88看球",
-            "type": 3,
-            "api": "http://f782c6d2.hk-vh-c.x-c.top/js/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://f782c6d2.hk-vh-c.x-c.top/js/88kanqiu.js"
-        },
+         {
+      "key": "企鹅体育xp",
+      "name": "🐧企鹅┃体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
+    },
         {
             "key": "drpy_js_JRKAN直播",
             "name": "JRKAN直播",
