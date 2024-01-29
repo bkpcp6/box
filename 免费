@@ -23,12 +23,12 @@
             "ext": "https://www.czzy88.com/"
         },
          {
-            "key": "drpy_js_榜单荐片4",
-            "name": "秒播A",
-            "type": 3,
-            "api": "https://gitee.com/ouhaibo/ou/raw/master/js/apiv71drpy2.min.js",
-            "ext": "https://gitee.com/ouhaibo/ou/raw/master/js/drpy.js"
-        },
+      "key": "drpy_js_荐片",
+      "name": "秒播A",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
+    },
         {
             "key": "csp_YQKan",
             "name": "秒播B",
