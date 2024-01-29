@@ -22,14 +22,13 @@
             "filterable": 0,
             "ext": "https://www.czzy88.com/"
         },
-        {
-      "key": "荐片",
-      "name": "秒播A",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "1",
-      "ext": "http://api2.rinhome.com"
-    },
+         {
+            "key": "drpy_js_榜单荐片4",
+            "name": "秒播A",
+            "type": 3,
+            "api": "https://gitee.com/ouhaibo/ou/raw/master/js/apiv71drpy2.min.js",
+            "ext": "https://gitee.com/ouhaibo/ou/raw/master/js/drpy.js"
+        },
         {
             "key": "csp_YQKan",
             "name": "秒播B",
