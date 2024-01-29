@@ -25,10 +25,10 @@
         {
       "key": "荐片",
       "name": "秒播A",
+      "api": "csp_Jianpian",
       "type": 3,
       "playerType": "1",
-      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/jp.js"
+      "ext": "http://api2.rinhome.com"
     },
         {
             "key": "csp_YQKan",
