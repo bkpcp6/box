@@ -39,16 +39,16 @@
             "filterable": 1
         },
         {
-            "key": "csp_NanGua",
-            "name": "秒播C",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
+      "key": "AppYs_南瓜",
+      "name": "秒播C",
+      "type": 3,
+      "playerType": 1,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+    },
         {"key":"豪华资源","name":"秒播D","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
         {
             "key": "嘿嘿",
