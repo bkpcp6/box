@@ -50,12 +50,15 @@
             "changeable": 1
         },
         {
-            "key": "量子",
+            "key": "xgapp",
             "name": "秒播D",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_AppYsV2",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
         {
             "key": "嘿嘿",
