@@ -85,7 +85,7 @@
       "quickSearch": 1,
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
-        {"ey":"豪华资源","name":"秒播D","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+        {"key":"豪华资源","name":"秒播D","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
         {
             "key": "嘿嘿",
             "name": "秒播E",
