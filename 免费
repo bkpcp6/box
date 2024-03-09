@@ -31,7 +31,7 @@
     },
 {
       "key": "drpy_js_爱看机器人",
-      "name": "爱看 | 机器[js]",
+      "name": "秒播D",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
@@ -39,7 +39,7 @@
 {
       "key": "量子",
       "name": "秒播B",
-      "type": 0,
+      "type": 3,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
