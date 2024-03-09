@@ -278,8 +278,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "./libs/jar/HCCX.jar",
-      "ext": "./libs/hccx/短剧网.json"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/短剧网.js"
     },   
 {
             "key": "MV_vod",
