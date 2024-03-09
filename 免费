@@ -189,7 +189,7 @@
         {
             "key": "YiSo",
             "name": "4K搜索Ⓐ",
-            "type": 3,
+            "type": 1,
             "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
