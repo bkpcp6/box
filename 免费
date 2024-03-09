@@ -22,12 +22,12 @@
             "filterable": 0,
             "ext": "https://www.czzy88.com/"
         },
-         {
+   {
       "key": "drpy_js_荐片",
       "name": "秒播A",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "ext": "./js/荐片.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/bkpcp6/box/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/bkpcp6/box/main/js/荐片.js"
     },
 {
       "key": "drpy_js_爱看机器人",
