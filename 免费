@@ -100,7 +100,7 @@
         {
             "key": "csp_DiDuan",
             "name": "秒播F",
-            "type": 3,
+            "type": 1,
             "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
