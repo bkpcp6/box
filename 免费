@@ -278,19 +278,9 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
     },
-     {
-      "key": "短视频",
-      "name": "短视频",
-      "type": 3,
-      "api": "https://gitee.com/zhaodehe/qlkj/raw/master/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/js/duanshiping.js"
-    },
 {
       "key": "种子短剧",
-      "name": "种子短剧‖接口广告请勿相信",
+      "name": "短剧",
       "type": 3,
       "api": "https://gitee.com/zhaodehe/qlkj/raw/master/js/drpy3.min.js",
       "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/js/zhongzi.js"
