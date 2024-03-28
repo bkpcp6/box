@@ -49,11 +49,22 @@
       "quickSearch": 1,
       "filterable": 0
     },
-        
+        {
+      "key": "地瓜资源",
+      "name": "秒播C",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/xiaohu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
+    },
         {
       "key": "AppYs_南瓜",
       "name": "秒播C",
-      "type": 3,
+      "type": 5,
       "playerType": 1,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "changeable": 1,
