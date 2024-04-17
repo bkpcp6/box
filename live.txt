@@ -1,6 +1,7 @@
 加Q群,#genre#
 加Q群:605625151,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://cdn.u55u.cn/migu.php?id=cctv1
+CCTV2,http://liveyfs.yun.gehua.net.cn:8088/live/CCTV2HD_1200.m3u8?a=1&shifttime=1682249940&shiftend=1713268860&ET=1713266272165&TOKEN=92322481cc07ed0431b647d932888aaf
 CCTV2,http://cdn.u55u.cn/migu.php?id=cctv2
 CCTV3,http://cdn.u55u.cn/migu.php?id=cctv3
 CCTV4,http://cdn.u55u.cn/migu.php?id=cctv4
