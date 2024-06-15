@@ -258,8 +258,10 @@
       "key": "种子短剧",
       "name": "短剧",
       "type": 3,
-      "api": "https://gitee.com/zhaodehe/qlkj/raw/master/js/drpy3.min.js",
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/js/zhongzi.js"
+      "api": "csp_Djuu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
 {
             "key": "MV_vod",
