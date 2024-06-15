@@ -29,6 +29,22 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
     },
+{
+      "key": "新6V",
+      "name": "🛩️新6V┃电影┃P2P",
+      "type": 3,
+      "api": "csp_WexXb6v",
+      "searchable": 1,
+      "changeable": 0
+    },
+{
+      "key": "Twobt",
+      "name": "🛩️Twobt┃电影┃P2P",
+      "type": 3,
+      "api": "csp_WexTwobt",
+      "searchable": 1,
+      "changeable": 0
+    },
 
 {
       "key": "drpy_js_爱看机器人",
