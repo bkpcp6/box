@@ -7,7 +7,7 @@
             "key": "豆豆",
             "name": "Q群:863403618",
        "type": 3,
-      "api": "csp_DouDou",
+      "api": "csp_Douban",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
