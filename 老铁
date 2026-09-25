@@ -1,11 +1,11 @@
 {
     "spider": "https://gitlab.com/duomv/duo/-/raw/main/pg.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-    "warningText": "QQ群:863403618",
+    "warningText": "QQ群:",
     "sites": [
         {
             "key": "豆豆",
-            "name": "Q群:863403618",
+            "name": "Q群:",
        "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
